@@ -1,16 +1,13 @@
-# CRUD SERVER HF 2
+# MINI express server ES6.
 
-
-Forudsætninger er vores basis forløb med intro til node.
-
-(Note to self)
-* FS filesystem
-* process env
-* node, npm, packages
-* ES6, CommonJS
-
-
-
+Installer pakker:
 ```
-Dette er den server vi ender med at lave i æbet af 2 uger.
+npm install
 ```
+
+Start server
+```
+node index
+``` 
+
+Køre på http://localhost:3042
