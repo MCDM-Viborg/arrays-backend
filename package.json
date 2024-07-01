@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "start server": "node index",
     "start": "nodemon index",
     "xmc": "node -r dotenv/config ./lib/db/xmc/xmc.js"
   },
